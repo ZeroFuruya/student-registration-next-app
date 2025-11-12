@@ -16,9 +16,9 @@ function Header() {
             }}
         >
             <Link href="/" className="flex items-end gap-2">
-                <Image src="/goatius.png" alt="Logo" width={100} height={100} priority />
+                <Image src="/wlc.png" alt="Logo" width={100} height={100} priority />
                 <h1 className="flex flex-col pb-1 text-2xl font-semibold leading-6">
-                    GOAT <span>Notes</span>
+                    WLC Ormoc <span>Student Registration</span>
                 </h1>
             </Link>
             <div className="flex gap-4">

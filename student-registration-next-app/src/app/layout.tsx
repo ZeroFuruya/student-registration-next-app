@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/sonner";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "Goat Notes",
+  title: "WLC Ormoc Student Registration",
 };
 
 export default function RootLayout({
